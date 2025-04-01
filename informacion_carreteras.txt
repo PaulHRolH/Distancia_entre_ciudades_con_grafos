@@ -1,0 +1,51 @@
+Origen, Destino, Distancia
+Ciudad de México, Puebla, 136
+Puebla, Veracruz, 296
+Veracruz, Oaxaca, 340
+Oaxaca, Chiapas, 461
+Chiapas, Tabasco, 242
+Tabasco, Campeche, 393
+Campeche, Yucatán, 166
+Yucatán, Quintana Roo, 270
+Ciudad de México, Guadalajara, 552
+Guadalajara, Puerto Vallarta, 330
+Guadalajara, León, 168
+León, Querétaro, 133
+Querétaro, Ciudad de México, 209
+Ciudad de México, Acapulco, 379
+Acapulco, Puerto Vallarta, 804
+Ciudad de México, Monterrey, 927
+Monterrey, Chihuahua, 719
+Chihuahua, Baja California, 1200
+Baja California, Sonora, 482
+Sonora, Sinaloa, 489
+Sinaloa, Durango, 358
+Durango, Zacatecas, 329
+Zacatecas, Aguascalientes, 122
+Aguascalientes, Guadalajara, 207
+Monterrey, Tampico, 474
+Tampico, Veracruz, 398
+Guadalajara, Colima, 206
+Colima, Acapulco, 483
+Puebla, Hidalgo, 146
+Hidalgo, Ciudad de México, 98
+Veracruz, Tlaxcala, 221
+Tlaxcala, Puebla, 40
+Culiacán, Mazatlán, 230
+Mazatlán, Puerto Vallarta, 423
+Puerto Vallarta, Guadalajara, 330
+Mérida, Cancún, 320
+Cancún, Quintana Roo, 150
+Quintana Roo, Belice, 210
+Belice, Guatemala, 220
+Guatemala, Chiapas, 450
+San Luis Potosí, Zacatecas, 182
+San Luis Potosí, Monterrey, 395
+San Luis Potosí, Guanajuato, 160
+Guanajuato, León, 47
+León, Aguascalientes, 131
+Aguascalientes, Jalisco, 209
+Jalisco, Nayarit, 191
+Nayarit, Sinaloa, 388
+Sinaloa, Baja California Sur, 710
+Baja California Sur, Baja California, 470
