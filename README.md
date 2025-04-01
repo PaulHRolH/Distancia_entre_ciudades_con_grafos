@@ -6,7 +6,6 @@
 Posteriormente, se implementa en una aplicación que permite seleccionar dos ciudades, y el programa, utilizando estructuras de grafos, encuentra la ruta más corta junto con la distancia a recorrer.
 
 Este programa fue desarrollado el 25/04/2024 como parte de la materia Temas Selectos de Programación II (Ciencia de Datos).
-Built With
 
 ## Built With
 
